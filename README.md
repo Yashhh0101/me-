@@ -1,12 +1,19 @@
-I'm Yash, a 2nd-year BTech student passionate about building strong fundamentals in programming and problem-solving.<br><br>💻 Currently Learning:<br><br>C++ and Data Structures & Algorithms<br><br>Solving problems daily and preparing for future placements<br>🚀 Mission:<br>Progress > Perfection — growing one line of code at a time.
+<h1 align="center">Hi there, I'm Yash 👋</h1>
 
+<h3 align="center">Aspiring Data Structure  | Web Development & AI Enthusiast</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yash-62449832a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yash.engineer06@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+Machine+Learning;Exploring+Deep+Learning+and+CNNs;Working+with+LangChain+%2F+LangGraph+%2F+RAG;Open+to+Data+Science+%2F+ML+%2F+AI+Internships!" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  🎓 B.Tech in Computer Science, GGSIPU (2024 – 2028) &nbsp;|&nbsp;  
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  🌱 I'm currently sharpening my skills in Data Structure and Generative AI   <br>
+  📫 Reach me at <a href="mailto:yash.engineer06@gmail.com">yash.engineer06@gmail.com</a> <br>
+  🤝 Open to <b>DSA / SDE / AI internships</b>
+</p>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
